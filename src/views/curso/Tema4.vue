@@ -149,7 +149,7 @@
               img(src="@/assets/curso/tema4/14.png", data-aos="zoom-in")
           .col-lg-6.order-lg-1
             TarjetaAudio.color-acento-botones.bg-color-white.mb-3(
-              texto="Fundamentos de la innovación estratégica"
+              texto="Ventajas y retos en el uso de recursos tecnológicos"
               tiempo
               :audio="require('../../assets/curso/podcast/podcast1.mp3')"
             )
