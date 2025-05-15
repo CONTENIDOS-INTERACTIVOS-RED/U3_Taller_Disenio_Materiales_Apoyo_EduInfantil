@@ -4,13 +4,13 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.overflow-hidden
 
     .row.mb-5
-      .col-lg-4.order-2
+      .col-lg-4.order-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/1.svg", data-aos="zoom-in")
-      .col-lg-8.order-1.mb-3.mb-lg-0
+      .col-lg-8.order-lg-1
         p(data-aos="fade-left") El diseño y evaluación de secuencias didácticas son elementos clave en la planificación educativa, ya que permiten estructurar el proceso de enseñanza y aprendizaje de manera efectiva.
     
-    .bg-full-width.bg-color-4.mb-lg-5
+    .bg-full-width.bg-color-4.mb-5
       .px-4.p-md-5
         .row.justify-content-center.align-items-center
           .col-lg-7.order-2
@@ -83,7 +83,7 @@
     
     p.mb-4 La evaluación en una Secuencia Didáctica es un proceso fundamental que permite medir su efectividad, identificar áreas de mejora y garantizar que los objetivos de aprendizaje sean alcanzados de manera significativa.
 
-    .bg-full-width.bg-color-4.mb-lg-5
+    .bg-full-width.bg-color-4.mb-5
       .px-4.p-md-5
         .row.justify-content-center.align-items-center
           .col-lg-7.order-2

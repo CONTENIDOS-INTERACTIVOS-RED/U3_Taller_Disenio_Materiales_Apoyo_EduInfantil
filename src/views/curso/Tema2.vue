@@ -241,10 +241,10 @@
     h2.mb-5(data-aos="fade-left") Rúbricas holísticas
 
     .row.align-items-start.mb-5
-      .col-lg-4.order-2
+      .col-lg-4.order-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema2/23.png", alt="").mb-4.mb-lg-0
-      .col-lg-8.mb-3.mb-lg-0.order-1
+      .col-lg-8.order-lg-1
     
         AcordionA(tipo="b")
           .div(titulo="Qué son")
