@@ -142,7 +142,8 @@
     
     .bg-full-width.bg-color-5.mb-5
       .px-4.px-md-5.py-4
-        p Como se estudió en el tema anterior, estos elementos son útiles para la evaluación y cierre, puesto que, al finalizar una unidad temática, los materiales didácticos pueden servir como herramientas para evaluar el logro de los objetivos de aprendizaje y sintetizar lo aprendido. 
+        p Estos recursos ayudan también al fortalecimiento del aprendizaje de temáticas y a la adquisición de competencias; los materiales didácticos pueden diseñarse para apoyar la comprensión y el desarrollo de habilidades. 
+
         h5.mb-5 Ejemplos incluyen: 
         div.row.justify-content-center.align-items-stretch
           div.col-lg-4.mb-4(data-aos="zoom-in-up")
@@ -328,7 +329,7 @@
                   tr.bg-color-white
                     td Creatividad
                     td El dibujo incluye detalles adicionales creativos.
-                    td detalles 
+                    td El dibujo tiene algunos detalles creativos. 
                     td Hay pocos o ningún detalle creativo en el dibujo.
                     td No hay evidencia de creatividad en el dibujo.
             p En este caso, el docente puede analizar cada criterio (representación, uso del color, creatividad) por separado y proporcionar retroalimentación específica para cada área (Pazos Anido, 2023).
@@ -338,14 +339,14 @@
         figure
           img(src="@/assets/curso/tema2/25.png", data-aos="zoom-in")
       .col-lg-8.order-1.mb-3.mb-lg-0
-        p.mb-5(data-aos="fade-left") Durante el desarrollo de la unidad, se abordarán aspectos como la evaluación de impacto, la gestión de riesgos, y la implementación de sistemas de monitoreo y seguimiento. Para lograrlo, los estudiantes explorarán el uso de indicadores y métricas que les permitirán medir los resultados y el éxito del proyecto en relación con los objetivos propuestos.
+        p.mb-5(data-aos="fade-left") En este sentido, las rúbricas holísticas, son más útiles cuando el docente necesita evaluar un desempeño general en actividades como juegos de roles, presentaciones grupales o actividades artísticas rápidas. Permiten una evaluación más ágil para actividades con un enfoque integrador y las rúbricas analíticas, son ideales para actividades en las que se busca evaluar habilidades específicas, como reconocer colores, construir torres con bloques o realizar trazos de letras. Permiten dar detalles más claros sobre qué aspectos mejorar.
     
         .bg-color-1.p-4(data-aos="fade-left")
           .row.align-items-start
             .col-lg-auto
               img(src="@/assets/curso/tema2/5.svg", style="max-width: 90px").mx-auto
             .col-lg
-              p.mb-0 Los sistemas de monitoreo y seguimiento aseguran la supervisión continua del avance del proyecto y facilitan el ajuste oportuno de los planes cuando sea necesario. Los estudiantes aprenderán a implementar herramientas que les permitan realizar un seguimiento eficiente del progreso y del cumplimiento de los objetivos, garantizando la transparencia y la responsabilidad en cada fase del proyecto.
+              p.mb-0 Ambos tipos de rúbricas son útiles en el contexto de educación inicial, dependiendo del propósito de la evaluación. Mientras que las rúbricas holísticas permiten una valoración rápida y global, las analíticas ayudan a detallar fortalezas y áreas de mejora en aspectos específicos. La elección entre ambas dependerá del tipo de actividad y los objetivos de aprendizaje.
     
         
 

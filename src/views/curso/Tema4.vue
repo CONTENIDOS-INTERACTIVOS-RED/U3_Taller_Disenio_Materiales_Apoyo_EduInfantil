@@ -286,7 +286,7 @@ export default {
               {
                 id: 'c',
                 texto: 'Genially',
-                esCorrecta: false,
+                esCorrecta: true,
               },
               {
                 id: 'd',
